@@ -1,0 +1,21 @@
+.masthead {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../../assets/img/intro.jpg') no-repeat right center fixed;
+  webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  /*background: cover;*/
+  display: table;
+  width: 100%;
+  height: 100%;
+  padding: 200px 0;
+  text-align: center;
+  color: #fff;
+  background-color: rgba(0,0,0,0.5);
+  background-size: cover;
+}
+
+li {
+  padding-right: 60px;
+}
+
